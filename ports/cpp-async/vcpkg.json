@@ -1,7 +1,7 @@
 {
   "name": "cpp-async",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Support types and functions for C++20 coroutines",
-  "homepage": "https://github.com/microsoft/cpp-async",
+  "homepage": "https://github.com/adityarao2005/cpp-async",
   "license": "MIT"
 }
